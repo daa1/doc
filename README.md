@@ -83,3 +83,26 @@ Eksempel:
 
 
 ### Lage last ned lenker
+
+```html
+<p>
+	<a href="http://www.linkorama.no" class="download">Lenketekst</a>
+</p>
+```
+
+Skal man ha flere lenker etter hverandre, lønner det seg ikke å bruke paragrafder, da det blir veldig mye luft. Bruker heller `div` for linjeskift her.
+I tillegg blir det ofte en bred kolonne, derfor er det lagt ´<div class="narrow">´ rundt alle lenkene.
+
+```html
+<div class="narrow">
+	<div>
+		<a href="http://www.linkorama.no" class="download">Lenketekst</a>
+	</div>
+	<div>
+		<a href="http://www.linkorama.no" class="download">Lenketekst</a>
+	</div>
+	<div>
+		<a href="http://www.linkorama.no" class="download">Lenketekst</a>
+	</div>
+</div>
+```
