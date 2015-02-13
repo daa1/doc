@@ -3,9 +3,11 @@
 
 ## Dersom man ser at noe flyter lenger ut til sidene enn selve teksten så kan man gjøre følgende:
 
+```html
 <div class="narrow">
 	innhold som flyter for langt ut inni her.
 </div>
+```
 
 
 
@@ -13,11 +15,13 @@
 
 Eksempel:
 
+```html
 <ul class="three-column">
 	<li><Innhold.../li>
 	<li><Innhold.../li>
 	... osv
 </ul>
+```
 
 Ønsker man talliste i stedet så bruker man <ol> i stedet for <ul>
 
@@ -30,7 +34,7 @@ Eksempel:
 
 ### 2 kolonner
 
-`
+```html
 <div class="box-container">
 	<div class="column half">
 		Valgfritt innhold
@@ -39,10 +43,11 @@ Eksempel:
 		Valgfritt innhold
 	</div>
 </div>
-`
+```
 
 ### 3 kolonner
 
+```html
 <div class="box-container">
 	<div class="column third">
 		Valgfritt innhold
@@ -54,9 +59,11 @@ Eksempel:
 		Valgfritt innhold
 	</div>
 </div>
+```
 
 ### 4 kolonner
 
+```html
 <div class="box-container">
 	<div class="column fourth">
 		Valgfritt innhold
@@ -71,6 +78,7 @@ Eksempel:
 		Valgfritt innhold
 	</div>
 </div>
+```
 
 
 
