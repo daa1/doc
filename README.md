@@ -90,8 +90,8 @@ Eksempel:
 </p>
 ```
 
-Skal man ha flere lenker etter hverandre, lønner det seg ikke å bruke paragrafder, da det blir veldig mye luft. Bruker heller `div` for linjeskift her.
-I tillegg blir det ofte en bred kolonne, derfor er det lagt ´<div class="narrow">´ rundt alle lenkene.
+Skal man ha flere lenker etter hverandre, lønner det seg ikke å bruke paragrafder, da det blir veldig mye luft. Bruker heller `<div>` for linjeskift her.
+I tillegg blir det ofte en bred kolonne, derfor er det lagt `<div class="narrow">` rundt alle lenkene.
 
 ```html
 <div class="narrow">
