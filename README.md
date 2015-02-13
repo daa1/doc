@@ -23,7 +23,7 @@ Eksempel:
 </ul>
 ```
 
-Ønsker man talliste i stedet så bruker man <ol> i stedet for <ul>
+Ønsker man talliste i stedet så bruker man `<ol>` i stedet for `<ul>`
 
 
 ## Sette opp generelle kolonner
