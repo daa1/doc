@@ -1,7 +1,7 @@
 # Stiler i editor
 
 
-## Dersom man ser at noe flyter lenger ut til sidene enn selve teksten så kan man gjøre følgende:
+### Dersom man ser at noe flyter lenger ut til sidene enn selve teksten så kan man gjøre følgende:
 
 ```html
 <div class="narrow">
@@ -11,7 +11,7 @@
 
 
 
-## Det er også muligheter for å legge punktlister og tallister som en trekolonners i stedet for under hverandre
+### Det er også muligheter for å legge punktlister og tallister som en trekolonners i stedet for under hverandre
 
 Eksempel:
 
@@ -26,13 +26,13 @@ Eksempel:
 Ønsker man talliste i stedet så bruker man `<ol>` i stedet for `<ul>`
 
 
-## Sette opp generelle kolonner
+### Sette opp generelle kolonner
 
 Det man har å jobbe med her er inndeling i enten 2, 3 eller 4 kolonner
 
 Eksempel:
 
-### 2 kolonner
+#### 2 kolonner
 
 ```html
 <div class="box-container">
@@ -45,7 +45,7 @@ Eksempel:
 </div>
 ```
 
-### 3 kolonner
+#### 3 kolonner
 
 ```html
 <div class="box-container">
@@ -61,7 +61,7 @@ Eksempel:
 </div>
 ```
 
-### 4 kolonner
+#### 4 kolonner
 
 ```html
 <div class="box-container">
@@ -82,4 +82,4 @@ Eksempel:
 
 
 
-Lage last ned lenker
+### Lage last ned lenker
